@@ -1,0 +1,21 @@
+{
+	"name": "nursery-checkin",
+	"version": "0.1.0",
+	"description": "Obsidian plugin for church nursery check-in and label printing",
+	"main": "main.js",
+	"scripts": {
+		"dev": "node esbuild.config.mjs",
+		"build": "node esbuild.config.mjs production"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/node": "^20.11.0",
+		"builtin-modules": "^3.3.0",
+		"esbuild": "^0.19.0",
+		"obsidian": "latest",
+		"tslib": "^2.6.0",
+		"typescript": "^5.3.0"
+	}
+}
