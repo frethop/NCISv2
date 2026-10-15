@@ -6,5 +6,5 @@
 	"description": "Check children into the church nursery, remember returning families, and print name labels.",
 	"author": "Your Church",
 	"authorUrl": "",
-	"isDesktopOnly": true
+	"isDesktopOnly": false
 }
