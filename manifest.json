@@ -1,7 +1,7 @@
 {
 	"id": "nursery-checkin",
 	"name": "Nursery Check-In",
-	"version": "0.1.3",
+	"version": "0.1.5",
 	"minAppVersion": "1.4.0",
 	"description": "Check children into the church nursery, remember returning families, and print name labels.",
 	"author": "Your Church",
